@@ -21,7 +21,7 @@ Image-classification models are typically built around [convolutional neural net
 
 Add a file named **dedupe.py** to the project in Azure Machine Learning Workbench. Then open it for editing and paste in the following code:
 
-	```python
+	```
 	# SQL Alchemy for full relational power
 	# http://docs.sqlalchemy.org/en/latest/core/engines.html
 	from sqlalchemy import create_engine
