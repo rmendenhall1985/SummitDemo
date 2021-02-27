@@ -13,7 +13,7 @@
 
 [![Launch Microsoft Learn](https://github.com/rmendenhall1985/SummitDemo/blob/main/Images/LaunchMSLearn.PNG)](https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/1-introduction/)
 
-## Azure Image Classification using MML Spark
+## Image Classification using Azure Cognitive Services
 
 [Image classification](https://en.wikipedia.org/wiki/Contextual_image_classification) is a common application for [machine learning](https://en.wikipedia.org/wiki/Machine_learning). The classic use case involves training a computer to recognize cat images — or, if you're fan of the TV show [Silicon Valley](https://www.hbo.com/silicon-valley), hot-dog images. In real life, image classification serves a variety of purposes ranging from analyzing images for adult content to identifying defective parts produced by manufacturing processes. It was recently used to [help search-and-rescue drones](https://blogs.technet.microsoft.com/canitpro/2017/05/10/teaching-drones-to-aid-search-and-rescue-efforts-via-cognitive-services/) identify objects such as boats and life vests in large bodies of water and recognize potential emergency situations in order to notify a rescue squad without waiting for human intervention.
 
