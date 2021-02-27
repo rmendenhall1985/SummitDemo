@@ -5,14 +5,9 @@
 ### Redeem Your Github Education Pack
 [![Github Student Pack](https://github.com/rmendenhall1985/SummitDemo/blob/main/Images/GithubStudentPack.PNG)](https://education.github.com/pack)
 
-
-
 ### Sign up for Azure for Students
 
 [![Signup for Azure](https://github.com/rmendenhall1985/SummitDemo/blob/main/Images/SignUpForAzure.PNG?raw=true)](https://signup.azure.com/studentverification?offerType=1&correlationId=04A696E101FA66F83EE999D0002667D9)
-
-
-
 
 
 ## Azure Image Classification using MML Spark
@@ -20,9 +15,6 @@
 [![Launch Microsoft Learn](https://github.com/rmendenhall1985/SummitDemo/blob/main/Images/LaunchMSLearn.PNG)](https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/1-introduction)
 
 [![Deploy to Azure](https://github.com/rmendenhall1985/SummitDemo/blob/main/Images/DeploytoAzure.PNG)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F101-storage-account-create%2Fazuredeploy.json)
-
-
-
 
 
 [Image classification](https://en.wikipedia.org/wiki/Contextual_image_classification) is a common application for [machine learning](https://en.wikipedia.org/wiki/Machine_learning). The classic use case involves training a computer to recognize cat images — or, if you're fan of the TV show [Silicon Valley](https://www.hbo.com/silicon-valley), hot-dog images. In real life, image classification serves a variety of purposes ranging from analyzing images for adult content to identifying defective parts produced by manufacturing processes. It was recently used to [help search-and-rescue drones](https://blogs.technet.microsoft.com/canitpro/2017/05/10/teaching-drones-to-aid-search-and-rescue-efforts-via-cognitive-services/) identify objects such as boats and life vests in large bodies of water and recognize potential emergency situations in order to notify a rescue squad without waiting for human intervention.
