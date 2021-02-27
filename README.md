@@ -5,7 +5,7 @@
 ### Redeem Your Github Education Pack
 https://docs.microsoft.com/en-us/learn/roles/student
 
-### Signup for Azure for Students
+### Sign up for Azure for Students
 
 [![Signup for Azure](https://github.com/rmendenhall1985/SummitDemo/blob/main/Images/SignUpForAzure.PNG?raw=true)](https://signup.azure.com/studentverification?offerType=1&correlationId=04A696E101FA66F83EE999D0002667D9)
 
