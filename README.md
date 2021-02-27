@@ -11,7 +11,7 @@
 
 ### 3 - Brush up on Cognitive Services with Microsoft Learn
 
-[![Launch Microsoft Learn](https://github.com/rmendenhall1985/SummitDemo/blob/main/Images/LaunchMSLearn.PNG)](https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/1-introduction)
+[![Launch Microsoft Learn](https://github.com/rmendenhall1985/SummitDemo/blob/main/Images/LaunchMSLearn.PNG)](https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/1-introduction/)
 
 ## Azure Image Classification using MML Spark
 
