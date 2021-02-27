@@ -13,7 +13,7 @@ https://docs.microsoft.com/en-us/learn/roles/student
 
 
 
-
+## Azure Image Classification using MML Spark
 
 [![Launch Microsoft Learn](https://github.com/rmendenhall1985/SummitDemo/blob/main/Images/LaunchMSLearn.PNG)](https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/1-introduction)
 
