@@ -13,4 +13,4 @@ https://docs.microsoft.com/en-us/learn/roles/student
 
 
 
-[!Launch Microsoft Learn](https://github.com/rmendenhall1985/SummitDemo/blob/main/Images/LaunchMSLearn.PNG)]
+[![Launch Microsoft Learn](https://github.com/rmendenhall1985/SummitDemo/blob/main/Images/LaunchMSLearn.PNG)]
