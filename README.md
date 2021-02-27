@@ -2,7 +2,7 @@
 
 ## Prerequisites before starting the workshop
 
-### 1 - Redeem Your Github Education Pack
+### 1 - Redeem Your Github Student Pack
 [![Github Student Pack](https://github.com/rmendenhall1985/SummitDemo/blob/main/Images/GithubStudentPack.PNG)](https://education.github.com/pack)
 
 ### 2 - Sign up for Azure for Students
