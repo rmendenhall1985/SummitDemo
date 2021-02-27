@@ -5,7 +5,7 @@ https://docs.microsoft.com/en-us/learn/roles/student
 
 
 
-[![Launch Microsoft Learn](https://github.com/rmendenhall1985/SummitDemo/blob/main/Images/LaunchMSLearn.PNG)] (https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/1-introduction/)
+[![Launch Microsoft Learn](https://github.com/rmendenhall1985/SummitDemo/blob/main/Images/LaunchMSLearn.PNG)] (https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/1-introduction)
 
 
 [![Signup for Azure](https://github.com/rmendenhall1985/SummitDemo/blob/main/Images/SignUpForAzure.PNG?raw=true)](https://signup.azure.com/studentverification?offerType=1&correlationId=04A696E101FA66F83EE999D0002667D9)
