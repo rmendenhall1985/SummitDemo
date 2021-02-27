@@ -82,7 +82,7 @@ Add a file named **dedupe.py** to the project in Azure Machine Learning Workbenc
 	# Note that the output would add an index by default
 	# http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.to_sql.html
 	df.to_sql('UniquePaintings', engine, if_exists='replace', index=False)
-'''
+```
 
 [![Deploy to Azure](https://github.com/rmendenhall1985/SummitDemo/blob/main/Images/DeploytoAzure.PNG)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F101-storage-account-create%2Fazuredeploy.json)
 
