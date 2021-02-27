@@ -1,4 +1,4 @@
-# SummitDemo
+# Ryan's Workshop
 
 ## Prerequisites before starting the workshop
 
